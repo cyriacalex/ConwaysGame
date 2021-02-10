@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.exe
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.deps.json
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.runtimeconfig.json
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.dll
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\bin\Debug\netcoreapp3.1\ConwaysGame.pdb
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.dll
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.pdb
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ConwaysGame\ConwaysGame\obj\Debug\netcoreapp3.1\ConwaysGame.csprojAssemblyReference.cache

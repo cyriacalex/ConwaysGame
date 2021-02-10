@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConwaysGame": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
