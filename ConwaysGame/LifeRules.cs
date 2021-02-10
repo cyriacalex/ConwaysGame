@@ -51,6 +51,7 @@ namespace ConwaysGame
         }
         public void UpdateGridState(int height, int width)
         {
+            //Not optimal. High cost to managing all threads. Would be better if one was a regular loop
             Parallel.For(0, height, (i, state) =>
             {
                 Parallel.For(0, width, (x, innerState) =>
